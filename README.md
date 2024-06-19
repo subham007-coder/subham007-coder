@@ -12,7 +12,7 @@ I'm a passionate web developer with expertise in [HTML, CSS, JavaScript, React, 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/subham-das-84130427b/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/subham-das-84130427b/)](https://www.linkedin.com/in/subham-das-84130427b/))
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
