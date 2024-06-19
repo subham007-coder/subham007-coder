@@ -18,13 +18,10 @@ I'm a passionate web developer with expertise in [HTML, CSS, JavaScript, React, 
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
-<img src="https://media.giphy.com/media/YOUR-GIPHY-ID/giphy.gif" width="200">
+
 
 
 
