@@ -9,7 +9,38 @@
 - }
 
 
-![HeroImage 6836186e3495a2980431](https://github.com/subham007-coder/subham007-coder/assets/125175575/e6b3082b-adad-406d-9efe-762c30c4df0d)
+
+![Banner](https://path-to-your-image/banner.png)
+
+## Hi there, I'm [Your Name] 👋
+I'm a passionate web developer with expertise in [Your Skills]. I love building [Type of Projects] and learning new technologies.
+
+### Skills
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+### Projects
+- [Project Name](https://github.com/yourusername/project-name): A brief description of what this project is about.
+- [Another Project](https://github.com/yourusername/another-project): A brief description of what this project is about.
+
+### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
+<img src="https://media.giphy.com/media/YOUR-GIPHY-ID/giphy.gif" width="200">
 
 
 
