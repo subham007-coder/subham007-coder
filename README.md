@@ -24,7 +24,7 @@ I'm a passionate web developer with expertise in [HTML, CSS, JavaScript, React, 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subham-das-84130427b/)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=subham007-coder&color=blue)
 
 
 
