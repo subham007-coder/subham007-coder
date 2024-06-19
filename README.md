@@ -11,13 +11,8 @@ I'm a passionate web developer with expertise in [HTML, CSS, JavaScript, React, 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-### Projects
-- [Project Name](https://github.com/yourusername/project-name): A brief description of what this project is about.
-- [Another Project](https://github.com/yourusername/another-project): A brief description of what this project is about.
-
-
 ### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/subham-das-84130427b/))
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
