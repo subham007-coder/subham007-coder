@@ -18,6 +18,14 @@ I'm a passionate web developer with expertise in [HTML, CSS, JavaScript, React, 
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=white)
 
 
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=johnDoe&show_icons=true&theme=radical&hide=stars,contribs&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats&hide_border=true&hide_rank=true&line_height=24&hide_title=true&hide_progress=true)
+
+🔧 Total Repositories: [XX](https://github.com/subham007-coder?tab=repositories)
+🔍 Total Issues: XX
+🔃 Total Pull Requests: XX
+
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=subham007-coder&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subham007-coder&layout=compact&theme=radical)
 
