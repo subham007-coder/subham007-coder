@@ -23,7 +23,8 @@ I'm a passionate web developer with expertise in [HTML, CSS, JavaScript, React, 
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subham-das-84130427b/)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfAgcFfeX8EYnAvphkb5Hh0pzqM_QDIQxbae-mbB_qHhWOK2E8u_QYdWbNbkCVqfITRV8&usqp=CAU" width="50" style="border-radius: 10px;">](https://subham-portfolio-khxh8awjw-subham007-coders-projects.vercel.app/)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfAgcFfeX8EYnAvphkb5Hh0pzqM_QDIQxbae-mbB_qHhWOK2E8u_QYdWbNbkCVqfITRV8&usqp=CAU" alt="Portfolio Logo" width="150" style="border-radius: 10px;">](https://subham-portfolio-khxh8awjw-subham007-coders-projects.vercel.app/)
+
 
 
 
