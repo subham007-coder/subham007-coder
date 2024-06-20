@@ -18,9 +18,7 @@ I'm a passionate web developer with expertise in [HTML, CSS, JavaScript, React, 
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=white)
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=subham007-coder&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subham007-coder&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=subham007-coder&show_icons=true&theme=radical)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subham007-coder&layout=compact&theme=radical)
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subham-das-84130427b/)
