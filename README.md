@@ -26,7 +26,7 @@ I'm a passionate web developer with expertise in [HTML, CSS, JavaScript, React, 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=790b76110rkmntyq7yw2gbjth2ofc1xkdanfrwwwrvhbvr5v&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200">
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=790b76110rkmntyq7yw2gbjth2ofc1xkdanfrwwwrvhbvr5v&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400">
 
 
 
