@@ -27,7 +27,7 @@ I'm a passionate web developer with expertise in [HTML, CSS, JavaScript, React, 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
 ### 🎵 Listen to My Favorite Song
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/track/YOUR_TRACK_ID)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/track/6EAMI8iHwC3TCSBGVKoWng?si=807ac8331d4b4eca)
 
 <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=790b76110rkmntyq7yw2gbjth2ofc1xkdanfrwwwrvhbvr5v&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400">
 
