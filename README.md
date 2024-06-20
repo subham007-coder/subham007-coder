@@ -21,12 +21,13 @@ I'm a passionate web developer with expertise in [HTML, CSS, JavaScript, React, 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=subham007-coder&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subham007-coder&layout=compact&theme=radical)
 
+
+### Connect with Me
+
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfAgcFfeX8EYnAvphkb5Hh0pzqM_QDIQxbae-mbB_qHhWOK2E8u_QYdWbNbkCVqfITRV8&usqp=CAU" alt="Portfolio Logo" width="100" style="border-radius: 20px;">](https://subham-portfolio-khxh8awjw-subham007-coders-projects.vercel.app/)
 
 
-### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subham-das-84130427b/)
-
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue)
