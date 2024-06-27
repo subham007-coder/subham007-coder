@@ -1,4 +1,4 @@
-## Hi there, I'm Subham Das 👋
+## Hi There, I'm Subham Das 👋
 I'm a passionate web developer with expertise in [HTML, CSS, JavaScript, React, GSAP, Locomotive.Js, Bootstrap, TailwindCss, MongoDB, Express.Js, Node.Js, Redis, Postman, Razorpay]. I love building WebPages and learning new technologies.
 
 ### Skills
