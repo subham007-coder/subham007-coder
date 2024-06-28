@@ -19,7 +19,7 @@ I'm a passionate web developer with expertise in [HTML, CSS, JavaScript, React, 
 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=subham007-coder&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subham007-coder&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api?username=subham007-coder&layout=compact&theme=radical)
 
 
 ### Connect with Me
