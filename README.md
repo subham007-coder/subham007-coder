@@ -17,8 +17,6 @@ I'm a passionate web developer with expertise in [HTML, CSS, JavaScript, React, 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=white)
 
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=subham007-coder_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api?username=subham007-coder&layout=compact&theme=radical)
 
 
